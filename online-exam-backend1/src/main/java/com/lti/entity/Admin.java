@@ -12,7 +12,7 @@ import javax.persistence.Table;
 @Entity
 public class Admin {
 
-	@Id
+	@Id  // hy bagwan bacha
 	@GeneratedValue
 
 	private int admin_Id;
